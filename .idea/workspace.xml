@@ -19,6 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,7 +30,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615296858140</updated>
       <workItem from="1615296859164" duration="2245000" />
-      <workItem from="1615450278452" duration="3658000" />
+      <workItem from="1615450278452" duration="4629000" />
     </task>
     <servers />
   </component>

@@ -3,9 +3,9 @@ $( function() {
   const bgColor = $("#bgcolor");
   let activeState = 'bgColor';
   let colorState = {
-    red: 255,
-    green: 255,
-    blue: 255
+    red: 0,
+    green: 0,
+    blue: 0
   };
   let bgColorState = {
     red: 255,
